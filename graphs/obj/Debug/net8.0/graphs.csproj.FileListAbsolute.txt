@@ -1,0 +1,14 @@
+D:\Work\coding\C#\vs code\C# code\graphs\graphs\bin\Debug\net8.0\graphs.exe
+D:\Work\coding\C#\vs code\C# code\graphs\graphs\bin\Debug\net8.0\graphs.deps.json
+D:\Work\coding\C#\vs code\C# code\graphs\graphs\bin\Debug\net8.0\graphs.runtimeconfig.json
+D:\Work\coding\C#\vs code\C# code\graphs\graphs\bin\Debug\net8.0\graphs.dll
+D:\Work\coding\C#\vs code\C# code\graphs\graphs\bin\Debug\net8.0\graphs.pdb
+D:\Work\coding\C#\vs code\C# code\graphs\graphs\obj\Debug\net8.0\graphs.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work\coding\C#\vs code\C# code\graphs\graphs\obj\Debug\net8.0\graphs.AssemblyInfoInputs.cache
+D:\Work\coding\C#\vs code\C# code\graphs\graphs\obj\Debug\net8.0\graphs.AssemblyInfo.cs
+D:\Work\coding\C#\vs code\C# code\graphs\graphs\obj\Debug\net8.0\graphs.csproj.CoreCompileInputs.cache
+D:\Work\coding\C#\vs code\C# code\graphs\graphs\obj\Debug\net8.0\graphs.dll
+D:\Work\coding\C#\vs code\C# code\graphs\graphs\obj\Debug\net8.0\refint\graphs.dll
+D:\Work\coding\C#\vs code\C# code\graphs\graphs\obj\Debug\net8.0\graphs.pdb
+D:\Work\coding\C#\vs code\C# code\graphs\graphs\obj\Debug\net8.0\graphs.genruntimeconfig.cache
+D:\Work\coding\C#\vs code\C# code\graphs\graphs\obj\Debug\net8.0\ref\graphs.dll
